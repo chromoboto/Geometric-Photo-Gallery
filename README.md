@@ -3,6 +3,8 @@ Website for displaying photos in architectural/geometric form using inverse kine
 
 [This](https://youtu.be/wcK3oCYf-QU) is a walkthrough of the current site
 
+Here are some stills from that video:
+
 <img width="1426" alt="Screen Shot 2019-03-11 at 11 41 16 PM" src="https://user-images.githubusercontent.com/40576412/54173329-db15e700-4457-11e9-8d71-93fdf00fa802.png">
 <img width="1426" alt="Screen Shot 2019-03-11 at 11 42 12 PM" src="https://user-images.githubusercontent.com/40576412/54173332-dc471400-4457-11e9-881d-8de4dc366d15.png">
 ![geometricPhotoGallery](https://user-images.githubusercontent.com/40576412/54173333-dd784100-4457-11e9-80bf-c104656f8e0a.gif)
